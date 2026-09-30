@@ -41,7 +41,15 @@ tampoco por mí**. Apúntala donde guardas Contraseñas importantes.
 
 ---
 
-Hecho por Alexios, en Monterrey.
+## Licencia
+
+Software propietario. © 2026 David Alexis López Gómez.
+Se permite descargar y usar esta versión beta sin costo. No se permite
+redistribuirla, descompilarla ni revenderla.
+
+Límbico incluye software de terceros (marked, DOMPurify, highlight.js, KaTeX,
+Plotly, y las tipografías Outfit y JetBrains Mono), cada uno bajo su propia
+licencia. Los avisos completos van dentro de la instalación.
 ```
 
 ### Texto de la Release `v1.4.1`
