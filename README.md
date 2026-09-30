@@ -43,7 +43,7 @@ tampoco por mí**. Apúntala donde guardas Contraseñas importantes.
 
 ## Licencia
 
-Software propietario. © 2026 David Alexis López Gómez.
+Software propietario. © 2026.
 Se permite descargar y usar esta versión beta sin costo. No se permite
 redistribuirla, descompilarla ni revenderla.
 
